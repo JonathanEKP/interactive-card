@@ -1,0 +1,9 @@
+.btn-custom{
+    background-color: hsl(278, 68%, 11%);
+    color: white;
+}
+
+.btn-custom:hover{
+    background-color: hsl(278, 68%, 11%);
+    color: white;
+}
